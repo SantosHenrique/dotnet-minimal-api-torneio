@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HenriqueSantos.Torneio.API", "HenriqueSantos.Torneio.API\HenriqueSantos.Torneio.API.csproj", "{7E87E950-AC87-43A5-8108-002A5AD11CDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E87E950-AC87-43A5-8108-002A5AD11CDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E87E950-AC87-43A5-8108-002A5AD11CDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E87E950-AC87-43A5-8108-002A5AD11CDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E87E950-AC87-43A5-8108-002A5AD11CDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBD56E00-EB41-466D-9434-9B2F0A3C132E}
+	EndGlobalSection
+EndGlobal
